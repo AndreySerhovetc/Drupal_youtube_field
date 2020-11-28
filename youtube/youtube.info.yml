@@ -1,0 +1,7 @@
+name: Youtube
+description: 'Youtube module - for output video from youtube!'
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
+version: 1.0
+package: Examples
